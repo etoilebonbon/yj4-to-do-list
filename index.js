@@ -12,8 +12,8 @@ console.log(typeof a)
 // ' '
 // ` `
 
-// console.log("나의 이름은 " + whoAmI + "이고, 나의 취미는 " + hobby + "입니다.")
-// console.log(`나의 이름은 ${whoAmI} 이고, 나의 취미는 ${hobby} 입니다.`)
+console.log("나의 이름은 " + whoAmI + "이고, 나의 취미는 " + hobby + "입니다.")
+console.log(`나의 이름은 ${whoAmI} 이고, 나의 취미는 ${hobby} 입니다.`)
 
 const arr = [1, 2, 3]
 console.log(arr)
